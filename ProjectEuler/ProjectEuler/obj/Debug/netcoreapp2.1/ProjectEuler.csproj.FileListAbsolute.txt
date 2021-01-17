@@ -1,8 +1,0 @@
-C:\Users\OZAN\source\repos\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp2.1\ProjectEuler.deps.json
-C:\Users\OZAN\source\repos\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp2.1\ProjectEuler.dll
-C:\Users\OZAN\source\repos\ProjectEuler\ProjectEuler\bin\Debug\netcoreapp2.1\ProjectEuler.pdb
-C:\Users\OZAN\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.csproj.CoreCompileInputs.cache
-C:\Users\OZAN\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.AssemblyInfoInputs.cache
-C:\Users\OZAN\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.AssemblyInfo.cs
-C:\Users\OZAN\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.dll
-C:\Users\OZAN\source\repos\ProjectEuler\ProjectEuler\obj\Debug\netcoreapp2.1\ProjectEuler.pdb
